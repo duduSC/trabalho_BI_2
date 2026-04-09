@@ -22,7 +22,7 @@ O projeto utiliza uma modelagem dimensional do tipo **Star Schema** (Modelo em E
 * **Pandas & NumPy**: Bibliotecas para limpeza, agregação e transformação de dados em memória.
 * **Jupyter Notebook**: Ambiente de desenvolvimento interativo (`.ipynb`).
 * **PostgreSQL**: Sistema de Gestão de Base de Dados Relacional utilizado para o Data Warehouse.
-* **SQLAlchemy & Psycopg2**: Para a comunicação e inserção dos dados entre o Python e o PostgreSQL.
+* **SQLAlchemy**: Para a comunicação e inserção dos dados entre o Python e o PostgreSQL.
 * **SQL Power Architect**: Ferramenta utilizada para o desenho da arquitetura de dados (`.architect`).
 
 ## 📁 Estrutura do Projeto
